@@ -5,3 +5,5 @@ elif (n >=6):
     print ('aprovada tambem')
 else:
     print ('reprovada')
+
+print ('test git push')
